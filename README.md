@@ -1,6 +1,6 @@
-## Welcome, to the profile LuisSantos-LS
+## Bem vindo(a), LuisSantos-LS
 
-Learning HTML, CSS, JavaScript, React and TypeScript
+Aprendendo HTML, CSS, JavaScript e PHP.
 
  <div>
    <a href="https://github.com/LuisSantos-LS">
